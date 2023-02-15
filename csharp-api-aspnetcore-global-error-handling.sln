@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-api-aspnetcore-global-error-handling", "csharp-api-aspnetcore-global-error-handling.csproj", "{6C2A016B-495E-4994-9259-9F81FF0010D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2A016B-495E-4994-9259-9F81FF0010D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2A016B-495E-4994-9259-9F81FF0010D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2A016B-495E-4994-9259-9F81FF0010D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2A016B-495E-4994-9259-9F81FF0010D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C6558B-5056-4FC6-845A-81A7A70A9B12}
+	EndGlobalSection
+EndGlobal
